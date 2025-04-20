@@ -2,7 +2,7 @@
 
 ## 1 · Paired‑sample *t*‑test – container designs
 
-![Design test output](../../images/paired-t-test-1-design.png)
+![Design test output](/rsch-prop-portfolio/paired-t-test-1-design.png)
 
 **Scenario.** Ten stores tested two packaging designs.  
 **Result.** Mean difference = 13.2 items (Design 1 > Design 2); *t*(9)=2.87, *p*=0.018.  
@@ -14,7 +14,7 @@ _Assumptions met_: independence of paired observations; approximate normality of
 
 ## 2 · One‑sample *t*‑test – cereal box weight
 
-![Cereal test output](../../images/sample-t-test-2-cereal.png)
+![Cereal test output](/rsch-prop-portfolio/sample-t-test-2-cereal.png)
 
 **Scenario.** The label weight is 500 g. Sixteen boxes were sampled.  
 **Result.** Mean = 501.9 g; *t*(15)=1.95, one‑tailed *p*=0.035.  

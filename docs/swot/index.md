@@ -1,4 +1,4 @@
-# Personal SWOT analysis (fill in your points below)
+# Personal SWOT analysis
 
 | **Strengths** | **Weaknesses** |
 |---------------|----------------|
