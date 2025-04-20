@@ -1,3 +1,6 @@
 title: "Research Methods e‑Portfolio"
 markdown: kramdown
 theme: minima
+collections:
+  pages:
+    output: true
