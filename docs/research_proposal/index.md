@@ -6,7 +6,7 @@ title: Self‑evaluation – Research Proposal Presentation
 
 **WHAT (recap).** The proposal asked: *“How can explainable deep‑learning techniques improve clinical decision‑making in medical imaging?”* I produced 19 slides and a 7‑minute narration.
 
-**SO WHAT (critique).** Feedback rated all five rubric areas as “Excellent” 444274_RRP Summative Feedback Template (Research Proposal Presentation).pdf](file-service://file-7iYPtHV7Ut3aCQPoSD5W4k), highlighting pace, clarity, and critical balance between theoretical context and real‑world constraints. The jump from 52 % (review) to 70 % reflected three deliberate improvements:
+**SO WHAT (critique).** Feedback rated all five rubric areas as “Excellent” 444274_RRP Summative Feedback Template (Research Proposal Presentation), highlighting pace, clarity, and critical balance between theoretical context and real‑world constraints. The jump from 52 % (review) to 70 % reflected three deliberate improvements:
 
 1. **Full story arc.** I opened with a clinical vignette to humanise the research gap.  
 2. **Methodological depth.** Used a diagram of the XAI pipeline, then critiqued Grad‑CAM’s localisation bias.  
@@ -15,7 +15,7 @@ title: Self‑evaluation – Research Proposal Presentation
 Areas to grow:
 
 * **Strengths vs. limitations deep‑dive.** Tutor suggested probing constraints further (e.g., annotation cost in CT).  
-* **Delivery tempo.** Pacing was steady but could be more dynamic to sustain engagement (Reynolds, 2021).  
+* **Delivery tempo.** Pacing was steady but could be more dynamic to sustain engagement .  
 * **Source density.** Five seminal papers is solid, yet a systematic review could uncover missing edge cases.
 
 **NOW WHAT (action plan).**

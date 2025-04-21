@@ -6,7 +6,7 @@ title: Self‑evaluation – Literature Review
 
 **WHAT (brief recap).** My review surveyed deep‑learning applications in radiology. I submitted only 1 300 of the 2 500 allocated words and structured the piece as bullet‑point mini‑sections.
 
-**SO WHAT (critique).** Karen Outram’s feedback noted that using “50 % of the word count… has limited the critical content” and that I relied on “listing… instead of full paragraphs” 436379_RRMP Summative Feedback Template (Literature Review) (3).pdf](file-service://file-GFBsy8y9HDrCQeCVTFTCow). In hindsight, the truncated length forced me to *describe* rather than interrogate sources. I also conflated **coverage** (breadth) with **critique** (depth) – a common novice error (Ridley, 2012).
+**SO WHAT (critique).** Karen Outram’s feedback noted that using “50 % of the word count… has limited the critical content” and that I relied on “listing… instead of full paragraphs”. In hindsight, the truncated length forced me to *describe* rather than interrogate sources. I also conflated **coverage** (breadth) with **critique** (depth) – a common novice error (Ridley, 2012).
 
 Formatting issues (font, spacing) cost presentation marks and signalled haste. More seriously, I failed to connect competing viewpoints: e.g., I listed Grad‑CAM advantages yet never weighed them against saliency‑map limitations. That broke the golden thread of argumentation (Booth et al., 2016).
 
