@@ -2,7 +2,7 @@
 
 ## 1 · Paired‑sample *t*‑test – container designs
 
-![Design test output](/rsch-prop-portfolio/images/paired-t-test-1-design.png)
+![Design test output](/rsch-prop-portfolio/images/sample-t-test-1-design.png)
 
 **Scenario.** Ten stores tested two packaging designs.  
 **Result.** Mean difference = 13.2 items (Design 1 > Design 2); *t*(9)=2.87, *p*=0.018.  
